@@ -13,6 +13,11 @@ bin-release/
 *.ipa
 *.apk
 
+build/
+conan_libs/
+pybind11/
+settings.json
+
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
