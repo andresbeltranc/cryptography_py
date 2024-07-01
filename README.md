@@ -7,7 +7,7 @@
 3. C++ Compiler
 4. pybind11 as a lib or clone the git repository in the project root folder.
 
-### Setting up Conan:
+### Windows Setting up Conan:
 
 To compile the app, you need to have conan installed and configured on your system.
 When you've run conan you should see a folder in the following path: C:/Users/[Your User]/.conan
